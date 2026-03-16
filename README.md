@@ -25,4 +25,8 @@ That's it for now. More features will be available on the near or distant future
 
 # Installation
 
+Download the appropriate zip file for your operating system in the releases tab!
+
+[Releases](https://github.com/dimitrisDlt/Mini-3D-Church-Organ/releases)
+
 This project was developed in Qt Creator, with the Qt Quick Framework, on Fedora Linux. The base language is C++, and the libraries used are sfizz and portaudio.
