@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="big_chapel.exr">assets/016_hdrmaps_com_free_2K.exr</file>
+        <file alias="big_chapel_4K.exr">assets/016_hdrmaps_com_free_4K.exr</file>
+        <file alias="small_chapel.hdr">assets/chapel_day_2k.hdr</file>
+    </qresource>
+</RCC>
