@@ -8,7 +8,7 @@ A mini church organ simulator for people who do not know music theory and want t
 This is a toy project I have been working on, using C++ and Qt Quick Framework, sfizz and portaudio libraries, to facilitate playing the church organ
 on a pc keyboard, without the need of music theory or an external midi keyboard.
 
-This project is abstracting the piano keys in a way so that every keystroke belongs in the D minor scale, so the every combination enables harmony without
+This project is abstracting the piano keys in a way so that every keystroke belongs to the D minor scale, so that every combination enables harmony without
 worrying about which piano keys sound well together. Of course providing only the notes of the D minor scale is very limiting, but this project is just for playing something cool.
 Nevertheless, the ability to switch between major and minor scales will be added soon.
 
