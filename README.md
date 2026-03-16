@@ -21,7 +21,7 @@ the available chords together.
 In the center of the application there is a 3D scene from a real catholic church, to emulate the vibe of playing a real church organ. With the mouse dragging you can change the perspective angle 
 of the scene.
 
-That's it for now. More feature will be available on the near or distant future, depending on available free time.
+That's it for now. More features will be available on the near or distant future, depending on available free time.
 
 # Installation
 
